@@ -1,0 +1,129 @@
+body{
+    font-family: 'Roboto', sans-serif;
+}
+.section-design{
+    display: flex;
+    margin-bottom: 50px;
+}
+.div-design-1{
+    margin-top: 8%;
+    font-size: 40px;
+    font-weight: 400;
+    margin-left: 5%;
+}
+span{
+    color: rgb(228, 20, 20);
+}
+
+.div-design{
+    margin-left:25px;
+       
+}
+.div-design img{
+    margin-left: 40px;
+    height: fit-content;
+
+}
+.button {
+    background-color: #4CAF50; /* Green */
+    background-image: linear-gradient(red, yellow);
+    border: none;
+    border-radius: 20px;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+  }
+
+.section-design2{
+    display: flex;
+    margin-bottom: 50px;
+    background-image: url("images/cover/7.png");
+    background-repeat: no-repeat;
+}
+
+.second{
+    margin-top:90px ;
+    margin-left: 18%;
+    margin-right: 18%;
+    text-align: justify;
+    letter-spacing: 1px;
+    line-height: 28px;
+    padding: 20px;
+    color:rgba(0, 0, 0, 0.651);
+}
+
+.last{
+    width: 100%;
+    margin-top: 5%;
+   
+}
+.last h1{
+    text-align: center;
+    font-size: 50px;
+    color:rgb(78, 11, 141);
+}
+.last p{
+    font-family: Arial, Helvetica, sans-serif;
+    margin-bottom: 40px;
+    font-weight: 700;
+    color: rgb(7, 102, 7);
+    text-align: center;
+}
+.row
+{
+    display: flex;
+    width: 100%;   
+}
+
+.limage img
+    {
+         width: 100%;
+    }
+
+.col
+    {
+        box-shadow: 10px 10px 5px grey;
+        height:auto;
+        width: 30%;
+        margin-left: 5%;
+        margin-right: 5%;
+        padding:20px;  
+    }
+
+
+.follow-us
+    {
+        width: 100%;
+        padding: 90px;
+        text-align: center;
+        margin-bottom: 3%; 
+    }
+.icon
+    {
+        width: 100%;
+        padding: 30px;
+        background-color: rgba(233, 227, 227, 0.575);
+        border-radius: 20px;
+       
+    }
+.icon i{
+        font-size:50px;
+        padding: 10px 30px;
+        background-color:white;
+        border-radius: 20px;
+        margin:5%;
+    }
+
+footer 
+    {
+        text-align: center;
+        margin-top: 50px;
+        margin-bottom: 40px;
+        font-weight: 100px;
+        background-color: rgba(0, 0, 0, 0.884);
+        color: rgba(240, 248, 255, 0.445);
+        padding: 30px;
+    }
